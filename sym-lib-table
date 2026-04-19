@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "motor_esc")(type "KiCad")(uri "${KIPRJMOD}/motor_esc.kicad_sym")(options "")(descr ""))
+)
